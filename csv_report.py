@@ -1,3 +1,5 @@
+#Script to extract results from an Oracle Database and export to a .csv file
+
 import os
 import cx_Oracle
 import csv
